@@ -2,7 +2,7 @@ package com.basha.chatgpt
 
 object Constants {
 
-  const  val apiKey = "AIzaSyDT6DvR4rXMT2ORgYBxAEwZGFQxrdCExWE"
+  const  val apiKey = ""
 
   val holidayMessages = mapOf(
     "12-25" to "Today is Christmas, celebrate!",
